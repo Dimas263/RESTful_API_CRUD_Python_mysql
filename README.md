@@ -15,3 +15,4 @@ RESTful API GET, POST, PUT, DELETE using Python with CRUD Mysql with Postman Tes
 
 # Delete
 <img src="api_delete.png"/>
+
