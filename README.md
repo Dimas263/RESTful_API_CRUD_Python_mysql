@@ -15,4 +15,3 @@
 
 # Delete
 <img src="api_delete.png"/>
-
